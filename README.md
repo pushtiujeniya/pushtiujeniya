@@ -38,14 +38,6 @@ Embedded Hardware Engineer with experience in **PCB Design**, **Schematic Develo
 * EasyEDA 
 * Altium Designer
 
-### Power Electronics
-
-* Buck Converter Design
-* Boost Converter Design
-* Power Supply Filtering
-* Decoupling Techniques
-* Voltage Regulation Concepts
-
 ---
 
 ## 📂 Featured Work
@@ -55,6 +47,9 @@ Embedded Hardware Engineer with experience in **PCB Design**, **Schematic Develo
 Projects involving:
 
 * STM32-based hardware systems
+* ATMEGA328P-AU  Data Logger with external memory interface 
+* ESP32-S3 based data visualizer board with  on board TFT display interface
+* ESP32-C3 Custom development board
 * Power supply and converter circuits
 * Communication interfaces
 * Custom PCB designs
