@@ -23,7 +23,9 @@ Embedded Hardware Engineer with experience in **PCB Design**, **Schematic Develo
 * Schematic Design
 * Component Selection
 * PCB Layout Optimization
-* STM32/ ESP32-S3/ESP32-C3/ATMEGA328P-AU MCU board         design
+* Custom Footprint
+* STM32/ ESP32-S3/ESP32-C3/ATMEGA328P-AU MCU board design
+* EPROM Memory Interface
 * Grounding & Power Distribution
 * High-Speed Routing Basics
 * Boot and Programming Interfaces
