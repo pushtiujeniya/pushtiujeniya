@@ -38,6 +38,9 @@ Embedded Hardware Engineer with experience in **PCB Design**, **Schematic Develo
 * Kicad
 * EasyEDA 
 * Altium Designer
+* Orcad
+* Designspark
+* Eagle
 
 ---
 
