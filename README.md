@@ -32,6 +32,7 @@ Embedded Hardware Engineer with experience in **PCB Design**, **Schematic Develo
 * GPIO / UART / SPI / I2C
 * Board Bring-up
 * Hardware Debugging & Testing
+* Gerber File Generation and Technical Documentation 
 
 ### Tools
 
