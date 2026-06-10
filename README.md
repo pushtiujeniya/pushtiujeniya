@@ -26,7 +26,7 @@ Embedded Hardware Engineer with experience in **PCB Design**, **Schematic Develo
 * Custom Footprint
 * STM32/ ESP32-S3/ESP32-C3/ATMEGA328P-AU MCU board design
 * EPROM Memory Interface
-* GPS/GNSS modem connection and layout
+* GSM modem interface and layout
 * Grounding & Power Distribution
 * High-Speed Routing Basics
 * Boot and Programming Interfaces
