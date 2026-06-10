@@ -31,6 +31,7 @@ Embedded Hardware Engineer with experience in **PCB Design**, **Schematic Develo
 * High-Speed Routing Basics
 * Boot and Programming Interfaces
 * GPIO / UART / SPI / I2C
+* USB 2.0 connection with ESD protection 
 * Board Bring-up
 * Hardware Debugging & Testing
 * Gerber File Generation and Technical Documentation 
