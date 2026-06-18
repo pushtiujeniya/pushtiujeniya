@@ -30,8 +30,9 @@ Embedded Hardware Engineer with experience in **PCB Design**, **Schematic Develo
 * Grounding & Power Distribution
 * High-Speed Routing Basics
 * Boot and Programming Interfaces
-* GPIO / UART / SPI / I2C
-* USB 2.0 connection with ESD protection 
+* GPIO / UART / SPI / I2C / RS485
+* USB 2.0 connection with ESD protection
+* Sensor integration (IMUs,vibration sensor,gas sensor,Display,GPS modem,UV sensor,micro sd card connector,PM sensor,Temp/hum sensor)
 * Board Bring-up
 * Hardware Debugging & Testing
 * Gerber File Generation and Technical Documentation 
